@@ -9,6 +9,6 @@ DispatchQueue.main.async{
     print(Thread.isMainThread ? "Execution on Main Thread" : " Execution on some other thread")
 }
 
-DispatchQueue.global().async {
-    print(Thread.isMainThread ? "Execution on Main Thread" : " Execution on some Global concurent queue ")
+DispatchQueue.global(qos: .userInteractive).async {
+    print(Thread.isMainThread ? "Execution on Main Thread" : " Execution on Global concurent queue ")
 }
