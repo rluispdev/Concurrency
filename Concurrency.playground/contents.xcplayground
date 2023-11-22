@@ -7,5 +7,6 @@
         <page name='QualityOfService'/>
         <page name='QualityOfService2'/>
         <page name='TargetQueue'/>
+        <page name='TargetQueue2'/>
     </pages>
 </playground>
