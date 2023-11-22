@@ -5,5 +5,7 @@
         <page name='Concurrency'/>
         <page name='Global concurrent queue'/>
         <page name='QualityOfService'/>
+        <page name='QualityOfService2'/>
+        <page name='TargetQueue'/>
     </pages>
 </playground>
