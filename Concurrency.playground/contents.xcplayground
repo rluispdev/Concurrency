@@ -9,5 +9,7 @@
         <page name='TargetQueue'/>
         <page name='TargetQueue2'/>
         <page name='SerialQueueAsync'/>
+        <page name='SerialQueueSync'/>
+        <page name='ConcurretQueueAsync'/>
     </pages>
 </playground>
