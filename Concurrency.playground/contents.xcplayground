@@ -8,5 +8,6 @@
         <page name='QualityOfService2'/>
         <page name='TargetQueue'/>
         <page name='TargetQueue2'/>
+        <page name='SerialQueueAsync'/>
     </pages>
 </playground>
